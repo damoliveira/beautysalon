@@ -15,10 +15,10 @@
 
 <br>
 
-<p align="center">
+
   ![preview](https://user-images.githubusercontent.com/61412901/123514590-1f017a00-d66a-11eb-988b-8194cd1c28b6.png)
 
-</p>
+
 
 ## 🚀 Tecnologias
 
