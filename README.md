@@ -3,13 +3,13 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-![preview](https://user-images.githubusercontent.com/61412901/123514430-689d9500-d669-11eb-8414-657dc89f35af.png)
 
 
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+![preview](https://user-images.githubusercontent.com/61412901/123514460-8965ea80-d669-11eb-8ae7-778bd73d5074.png)
+
 </p>
 
 ## 🚀 Tecnologias
