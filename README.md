@@ -1,10 +1,10 @@
-![preview](https://user-images.githubusercontent.com/61412901/123514402-38ee8d00-d669-11eb-939e-ef4d0adbae19.png)
-">
+
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
+![preview](https://user-images.githubusercontent.com/61412901/123514430-689d9500-d669-11eb-8414-657dc89f35af.png)
+
 
 <br>
 
