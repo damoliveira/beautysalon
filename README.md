@@ -4,14 +4,20 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-![preview](https://user-images.githubusercontent.com/61412901/123514551-f37e8f80-d669-11eb-908c-ab76cc750d7c.png)
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+
 
 
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  ![preview](https://user-images.githubusercontent.com/61412901/123514590-1f017a00-d66a-11eb-988b-8194cd1c28b6.png)
+
 </p>
 
 ## 🚀 Tecnologias
